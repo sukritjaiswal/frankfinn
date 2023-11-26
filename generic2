@@ -1,0 +1,195 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Generic Page - Massively by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">Massively</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li><a href="index.html">This is Massively</a></li>
+							<li class="active"><a href="generic.html">Generic Page</a></li>
+							<li><a href="elements.html">Elements Reference</a></li>
+						</ul>
+						<ul class="icons">
+							<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+								<!--	<span class="date">April 25, 2017</span> -->
+									<h2><a href="#">Certificate Course in<br />
+									Aviation, Hospitality and Travel Management </a></h2>
+									<p>The aviation industry is on the precipice of an exponential growth surge, with estimates that India will need 400 airports and 300 aircraft in the next decade. With such high growth rates expected in the country, it's no surprise that the hospitality and travel industries are also generating massive demands for quality personnel. This 11-month course, which is designed by the industry experts, provides Frankfinn students a comprehensive, all-inclusive training, enabling the students to write their own success stories. </p>
+								</header>
+								<a href="#" class="image main"><img src="images/pic01.jpg" alt="" /></a>
+								<ul class="actions special">
+									<li><a href="#" class="button large">Full Story</a></li>
+								</ul>
+							</article>
+
+						<!-- Posts -->
+							<section class="posts">
+								<article>
+									<header>
+									<!--	<span class="date">April 24, 2017</span> -->
+										<h2><a href="#">Aviation Duties <br /> Management </a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
+									<p>This course is designed to train students on the skills required to become a cabin crew. The program encapsulates all the topics related to aviation hospitality that a cabin crew member is required to know. Students are trained on basic flight safety protocols, emergency routines and handling passengers onboard. They are taught about the different parts and functions of a commercial aircraft, and also about essential flight-related tasks such as embarkation and disembarkation procedures as well as onboard meal service techniques. </p>
+								</article>
+								<article>
+									<header>
+									<!--	<span class="date">April 22, 2017</span> -->
+										<h2><a href="#">Effective <br />
+										Communication Skills </a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
+									<p>With English being the most spoken language in the world, it is absolutely vital to learn the language in order to have a successful career. This course is primarily designed to help each Frankfinn student communicate effectively in the English language at work. Topics that are covered in this subject include basic grammar knowledge, greetings and farewells, and the various details involved in making appointments or coming to a mutual conclusion on certain topics. Since each lesson in this course is extremely interactive, students are able to constantly practice their language skills and also learn about key aspects of correct and effective communication. </p>
+								</article>
+								<article>
+									<header>
+									<!--	<span class="date">April 18, 2017</span> -->
+										<h2><a href="#">Personality <br />
+										Development </a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
+									<p>This course is highly interactive and helps the student develop the personality traits required to work in a professional environment. This course familiarizes the students with positive attitude, anger management, empathy, perception, motivation and stress management. The course instills in them great confidence and makes them true leaders. The importance of complementary characteristics and participating in team-building activities are also discussed in detail. </p>
+								</article>
+								<article>
+									<header>
+									<!--	<span class="date">April 14, 2017</span> -->
+										<h2><a href="#">Grooming <br /> Training </a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
+									<p>The course trains the student on the grooming skills required in the aviation, hospitality, tourism and customer service industries. Topics that are covered here include skin and hair care, western and traditional attires, and basic grooming practices, dental care, professional make-up techniques etc. The important topics of - art of walking impressionably and following certain social etiquettes are also covered. </p>
+								</article>
+								<article>
+									<header>
+									<!--	<span class="date">April 11, 2017</span> -->
+										<h2><a href="#">Customer Relationship <br />
+										Management</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
+									<p>This is a vital course that trains the student on customer handling skills. Students are briefed about the different types of customers as well as the basic needs of each customer. Students are also made aware of what makes customer service exemplary. This course equips them with the skill sets to deal with ease even the difficult customers successfully. </p>
+								</article>
+								<article>
+									<header>
+									<!--	<span class="date">April 7, 2017</span> -->
+										<h2><a href="#">Interviewing <br />
+										Skills </a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
+									<p>As the name suggests, this course prepares the student for facing and clearing all types of interviews. Impromptu speaking, mock interviews, group discussions, and positive body language are covered in this course. They are prepared to answer all the questions that can be put to them in the interviews. Besides, the Frankfinn trainers will also share knowledge for preparing the perfect resume and covering letters. </p>
+								</article>
+							</section>
+
+							<article class="post featured">
+								<header class="major">
+								<!--	<span class="date">April 25, 2017</span> -->
+									<h2><a href="#">Pre-requisites for<br />
+									the course </a></h2>
+									<ul>
+										<li style="list-style-type: none;">12th pass or appeared, First Year or Second Year Graduation Student (Students studying in 12th Class can also take admission. However, the  certificate will be awarded only after passing 12th standard.) </li>
+										<li style="list-style-type: none;">Basic knowledge of English</li>
+										<li style="list-style-type: none;">Having a pleasing personality</li>
+										<li style="list-style-type: none;">Selection will be on basis of personal interviews</li>
+									</ul>
+								</header>
+							</article>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<section>
+							<form method="post" action="#">
+								<div class="fields">
+									<div class="field">
+										<label for="name">Name</label>
+										<input type="text" name="name" id="name" />
+									</div>
+									<div class="field">
+										<label for="email">Email</label>
+										<input type="text" name="email" id="email" />
+									</div>
+									<div class="field">
+										<label for="message">Message</label>
+										<textarea name="message" id="message" rows="3"></textarea>
+									</div>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Send Message" /></li>
+								</ul>
+							</form>
+						</section>
+						<section class="split contact">
+							<section class="alt">
+								<h3>Address</h3>
+								<p>1234 Somewhere Road #87257<br />
+								Nashville, TN 00000-0000</p>
+							</section>
+							<section>
+								<h3>Phone</h3>
+								<p><a href="#">(000) 000-0000</a></p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p><a href="#">info@untitled.tld</a></p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+									<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
